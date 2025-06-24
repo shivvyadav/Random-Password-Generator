@@ -85,7 +85,11 @@ i {
     font-size: 0.75rem;
     padding: 0 1rem 0 0;
   }
-  i{
+  i {
     font-size: 1.25rem;
   }
+}
+input:focus {
+  outline: none;
+  border: none;
 }
